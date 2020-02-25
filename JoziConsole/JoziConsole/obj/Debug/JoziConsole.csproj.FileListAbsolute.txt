@@ -7,3 +7,4 @@ D:\OneDrive\Programming\▲ Projects ▲\REPOS\JoziConsole\JoziConsole\JoziConso
 D:\OneDrive\Programming\▲ Projects ▲\REPOS\JoziConsole\JoziConsole\JoziConsole\obj\Debug\JoziConsole.csproj.GenerateResource.cache
 D:\OneDrive\Programming\▲ Projects ▲\REPOS\JoziConsole\JoziConsole\JoziConsole\obj\Debug\JoziConsole.exe
 D:\OneDrive\Programming\▲ Projects ▲\REPOS\JoziConsole\JoziConsole\JoziConsole\obj\Debug\JoziConsole.pdb
+D:\OneDrive\Programming\▲ Projects ▲\REPOS\JoziConsole\JoziConsole\JoziConsole\obj\Debug\JoziConsole.PopUpForm1.resources
