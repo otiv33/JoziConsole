@@ -1,0 +1,9 @@
+D:\OneDrive\Programming\▲ Projects ▲\REPOS\JoziConsole\JoziConsole\JoziConsole\bin\Debug\JoziConsole.exe.config
+D:\OneDrive\Programming\▲ Projects ▲\REPOS\JoziConsole\JoziConsole\JoziConsole\bin\Debug\JoziConsole.exe
+D:\OneDrive\Programming\▲ Projects ▲\REPOS\JoziConsole\JoziConsole\JoziConsole\bin\Debug\JoziConsole.pdb
+D:\OneDrive\Programming\▲ Projects ▲\REPOS\JoziConsole\JoziConsole\JoziConsole\obj\Debug\JoziConsole.csprojAssemblyReference.cache
+D:\OneDrive\Programming\▲ Projects ▲\REPOS\JoziConsole\JoziConsole\JoziConsole\obj\Debug\JoziConsole.Form1.resources
+D:\OneDrive\Programming\▲ Projects ▲\REPOS\JoziConsole\JoziConsole\JoziConsole\obj\Debug\JoziConsole.Properties.Resources.resources
+D:\OneDrive\Programming\▲ Projects ▲\REPOS\JoziConsole\JoziConsole\JoziConsole\obj\Debug\JoziConsole.csproj.GenerateResource.cache
+D:\OneDrive\Programming\▲ Projects ▲\REPOS\JoziConsole\JoziConsole\JoziConsole\obj\Debug\JoziConsole.exe
+D:\OneDrive\Programming\▲ Projects ▲\REPOS\JoziConsole\JoziConsole\JoziConsole\obj\Debug\JoziConsole.pdb
